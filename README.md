@@ -2,9 +2,9 @@
 
 Here are the BioErrorLog logos.
 
-## Normal
+## Original
 
-![normal_logo](./png/logo_normal_500x500.png)
+![original_logo](./png/logo_original_500x500.png)
 
 ## White
 
